@@ -2,7 +2,7 @@
 
 > A curated list of AI music generation tools, APIs, open-source models, audio processing libraries, and resources for developers and creators.
 
-Built and maintained by the team at [MusicWave](https://musicwave.ai) with contributions from the community. Pull requests welcome — see [Contributing](#contributing) below.
+Built and maintained by the team at [MusicWave](https://www.musicwave.ai) with contributions from the community. Pull requests welcome — see [Contributing](#contributing) below.
 
 ## Contents
 
@@ -69,7 +69,7 @@ Self-hostable or research-available models you can run locally.
 
 Programmatic access for building AI music into your own apps.
 
-- [MusicWave API](https://musicwave.ai) — REST API with webhooks, job polling, and stem separation endpoints.
+- [MusicWave API](https://www.musicwave.ai) — REST API with webhooks, job polling, and stem separation endpoints.
 - [Replicate](https://replicate.com/collections/ml-music) — Host and run open-source music models via API.
 - [Hugging Face Inference API](https://huggingface.co/inference-api) — Run MusicGen and other audio models via HTTP.
 - [Mubert API](https://mubert.com/docs/api) — Streaming and generation API.
@@ -115,7 +115,7 @@ Separate vocals, drums, bass, and other instruments from mixed tracks.
 
 ### Hosted
 
-- [MusicWave Stem Splitter](https://musicwave.ai) — 2/4/5-stem separation with adjustable quality.
+- [MusicWave Stem Splitter](https://www.musicwave.ai) — 2/4/5-stem separation with adjustable quality.
 - [LALAL.AI](https://lalal.ai) — Web-based stem separation service.
 - [Moises](https://moises.ai) — Music practice-oriented separation.
 
@@ -128,7 +128,7 @@ Automated mastering to get AI-generated tracks closer to release quality.
 - [LANDR](https://landr.com) — AI mastering pioneer.
 - [iZotope Ozone](https://www.izotope.com/en/products/ozone.html) — Industry-standard mastering suite.
 - [CloudBounce](https://cloudbounce.com) — Online AI mastering.
-- [MusicWave Audio Mastering](https://musicwave.ai) — Built-in AI mastering for multi-track workflows.
+- [MusicWave Audio Mastering](https://www.musicwave.ai) — Built-in AI mastering for multi-track workflows.
 
 ---
 
@@ -161,7 +161,7 @@ AI tools focused on singing voice synthesis and vocal processing.
 - [Bark](https://github.com/suno-ai/bark) — Text-to-audio including vocals (by Suno team).
 - [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) — Singing voice synthesis.
 - [Kits.AI](https://kits.ai) — Voice cloning for musicians.
-- [MusicWave Voice Personas](https://musicwave.ai) — Clone a voice from a vocal sample and use it in generations.
+- [MusicWave Voice Personas](https://www.musicwave.ai) — Clone a voice from a vocal sample and use it in generations.
 
 ---
 
@@ -229,7 +229,7 @@ More papers: see [Papers With Code — Music Generation](https://paperswithcode.
 - [Creative Commons Licenses Explained](https://creativecommons.org/licenses/)
 - [Understanding Music Licensing](https://www.tunecore.com/guides/music-licensing)
 - [YouTube Copyright Dispute Form](https://support.google.com/youtube/answer/6005900)
-- [MusicWave Commercial License](https://musicwave.ai/license) — Example of a downloadable per-song commercial license PDF.
+- [MusicWave Commercial License](https://www.musicwave.ai/license) — Example of a downloadable per-song commercial license PDF.
 - [Electronic Frontier Foundation — IP Resources](https://www.eff.org/issues/intellectual-property)
 
 ---
