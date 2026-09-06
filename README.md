@@ -32,7 +32,8 @@ Hosted AI music generation services. Most offer web UIs and some expose APIs.
 ### Commercial Platforms
 
 - [MusicWave](https://musicwave.ai) — Multi-model AI music platform with stem splitting, audio mastering, voice personas, and commercial licensing built in.
-- [Suno](https://suno.com) — Popular consumer AI music generator, strong vocal synthesis.
+- [One Custom Song](https://onecustomsong.com) - AI music gift platform: personalized songs from memories, lyric wall art, and music videos (free preview).
+- - [Suno](https://suno.com) — Popular consumer AI music generator, strong vocal synthesis.
 - [Udio](https://udio.com) — Wide genre support with detailed prompt control.
 - [Stable Audio](https://stableaudio.com) — Stability AI's text-to-audio platform, strong for instrumentals and sound design.
 - [Mubert](https://mubert.com) — API-first generative music service oriented toward developers.
